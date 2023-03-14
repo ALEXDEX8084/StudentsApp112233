@@ -153,5 +153,5 @@ public partial class MainPage : ContentPage
     }
 }
 ```
-![add](/add.png "Окно добавление")
-![MainWindow](/MainWindow.png "Главное окно")
+![add](https://github.com/ALEXDEX8084/StudentsApp112233/add.png?raw=true)
+![MainWindow](https://github.com/ALEXDEX8084/StudentsApp112233/MainWindow.png?raw=true)
